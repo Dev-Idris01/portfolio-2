@@ -1,0 +1,148 @@
+.container{
+    background-image: url(../img/Devidris\ banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    text-align: center;
+}
+span{
+    text-decoration: underline;
+}
+h1{
+    color: blue;
+    font-size: 4.325rem;
+    padding-top: 80px;
+    margin: 50px 0 auto auto;
+    font-family: Georgia;
+}
+.gbolahan{
+    color: blue;
+}
+.kuniya{
+    font-style: italic;
+    font-family: sans-serif;
+}
+H2{
+    color: blue;
+}
+h3{
+    color: white;
+    font-family: Georgia;
+    font-weight: bolder;
+}
+li{
+    list-style: none;
+    font-weight: bold;
+}
+.front-end{
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+}
+
+
+
+/* MIDDLE CONTAINER */
+
+.profile{
+    background-color: grey;
+    text-align: center;
+}
+.pro-image{
+    border-radius: 100%;
+    height: 15%;
+    width: 15%;
+    padding-top: 10px;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+/* SKILLS CONTAINER */
+
+.skills{
+    text-align: center;
+    background-color: grey;
+}
+.web{
+    border-radius: 100%;
+    width: 25%;
+    height: 15%;
+    float: left;
+    margin-right: 30px;
+}
+.web2{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-left: 30px;
+}
+.web3{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 30px; 
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+/* CONTACT CONTAINER */
+
+.contactme{
+    width: 50%;
+    text-align: center;
+    margin: 100px auto;
+}
+
+.coding{
+    margin: 40px auto 60px;
+}
+
+.btn{
+    background-color: black;
+    border-radius: 30px;
+    padding: 10px 20px;
+    border-bottom: 0;
+    color: white;
+    text-decoration: none;
+}
+
+.btn:hover{
+    color: blue;
+    background-color: transparent;
+    border: 2px solid;
+}
+
+/* BOTTOM CONTAINER */
+
+.bottom-container{
+    background-color: black;
+    margin-bottom: 0;
+    padding: 50px 5px 20px;
+    text-decoration: none;
+}
+
+.footer{
+    text-decoration: none;
+    color: white;
+}
+
+.footer:hover{
+    color: blue;
+}
+
+.copywrit{
+    color: white;
+    font-size: 10px
+}
+
